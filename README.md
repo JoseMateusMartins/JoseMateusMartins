@@ -1,16 +1,23 @@
-## Hi there 👋
+### Olá, me chamo Jose Mateus! Bem vindo ao meu GitHub 👋
 
-<!--
-**JoseMateusMartins/JoseMateusMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Desenvolvedor Front-End, gosto muito de explorar novas tecnologias e aprender coisas novas que vão trazer melhorias tanto profissionalmente quanto pessoal.
 
-Here are some ideas to get you started:
+## Soft Skills
+- Aprendizado contínuo
+- Pró-atividade
+- Adaptabilidade
+- Flexibilidade
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ferramentas e Tecnologias:
+
+<img height=80px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  <img height=80px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img height=80px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  <img height=80px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />  <img height=80px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />    
+
+## Contatos:
+
+<div>
+<a href="https://www.linkedin.com/in/jose-mateus-magalhães-martins-6a4b78237/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:josemateus69@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/-josemateus69@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:josemateus69@outlook.com" target="_blank"></a>
+</div>
+
+![trabajando](https://github.com/user-attachments/assets/1b435e11-5e26-40cc-82f8-2d7a1015c646)
